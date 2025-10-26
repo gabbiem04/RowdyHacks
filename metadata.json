@@ -1,0 +1,5 @@
+{
+  "name": "AI Budget Planner",
+  "description": "An intelligent budgeting application that helps you track your income, expenses, and debt. It features an AI financial advisor to provide personalized strategies for debt reduction and budget planning, along with visual graphs to understand your spending habits.",
+  "requestFramePermissions": []
+}
